@@ -1,0 +1,17 @@
+F:/CalculatorApp/Calculator.UITest/obj/Debug/Calculator.UITest.csproj.CoreCompileInputs.cache
+F:/CalculatorApp/Calculator.UITest/bin/Debug/Calculator.UITest.dll
+F:/CalculatorApp/Calculator.UITest/bin/Debug/Calculator.UITest.pdb
+F:/CalculatorApp/Calculator.UITest/bin/Debug/nunit.framework.dll
+F:/CalculatorApp/Calculator.UITest/bin/Debug/Xamarin.UITest.dll
+F:/CalculatorApp/Calculator.UITest/obj/Debug/Calculator.UITest.csproj.CopyComplete
+F:/CalculatorApp/Calculator.UITest/obj/Debug/Calculator.UITest.dll
+F:/CalculatorApp/Calculator.UITest/obj/Debug/Calculator.UITest.pdb
+/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/calculatorapp/calculatorapp/calculator.uitest/bin/Debug/Calculator.UITest.dll
+/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/calculatorapp/calculatorapp/calculator.uitest/bin/Debug/Calculator.UITest.pdb
+/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/calculatorapp/calculatorapp/calculator.uitest/bin/Debug/nunit.framework.dll
+/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/calculatorapp/calculatorapp/calculator.uitest/bin/Debug/Xamarin.UITest.dll
+/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/calculatorapp/calculatorapp/calculator.uitest/obj/Debug/Calculator.UITest.csprojAssemblyReference.cache
+/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/calculatorapp/calculatorapp/calculator.uitest/obj/Debug/Calculator.UITest.csproj.CoreCompileInputs.cache
+/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/calculatorapp/calculatorapp/Calculator.UITest/obj/Debug/Calculator.UITest.csproj.CopyComplete
+/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/calculatorapp/calculatorapp/calculator.uitest/obj/Debug/Calculator.UITest.dll
+/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/calculatorapp/calculatorapp/calculator.uitest/obj/Debug/Calculator.UITest.pdb

@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{60FC6A7D-BC5B-4B8E-B453-7CD95BEC44F5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="calculatorapp/calculatorapp/MainPage.xaml">
+    <Files>
+      <File FileName="calculatorapp/calculatorapp/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="calculatorapp/calculatorapp/App.xaml" Line="8" Column="15" />
+      <File FileName="calculator.uitest/Tests.cs" Line="1" Column="1" />
+      <File FileName="calculatorapp/calculatorapp/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="calculatorapp/calculatorapp/MainPage.xaml" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CalculatorApp.Android PreferredExecutionTarget="Android.Nexus_5X_API_28" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
